@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f91a7732-1b14-4b3a-9d35-fcb74ab9ebf8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="f91a7732-1b14-4b3a-9d35-fcb74ab9ebf8" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,16 +11,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="post.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mblog/templates/post.html">
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mblog/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-              <folding>
-                <element signature="n#style#0;n#h3#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="583">
+              <caret line="54" column="10" lean-forward="false" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -49,11 +42,11 @@
         <option value="$PROJECT_DIR$/mblog/template/index.html" />
         <option value="$PROJECT_DIR$/mblog/mblog/urls.py" />
         <option value="$PROJECT_DIR$/mblog/mainsite/views.py" />
-        <option value="$PROJECT_DIR$/mblog/templates/base.html" />
         <option value="$PROJECT_DIR$/mblog/templates/index.html" />
-        <option value="$PROJECT_DIR$/mblog/templates/header.html" />
         <option value="$PROJECT_DIR$/mblog/templates/footer.html" />
         <option value="$PROJECT_DIR$/mblog/templates/post.html" />
+        <option value="$PROJECT_DIR$/mblog/templates/header.html" />
+        <option value="$PROJECT_DIR$/mblog/templates/base.html" />
       </list>
     </option>
   </component>
@@ -155,16 +148,16 @@
   <component name="ToolWindowManager">
     <frame x="62" y="28" width="1400" height="810" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25701624" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26070902" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -183,11 +176,16 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mblog/mainsite/admin.py">
+    <entry file="file://$PROJECT_DIR$/mblog/templates/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="72">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding>
+            <marker date="1504258657107" expanded="true" signature="117:134" ph="..." />
+            <marker date="1504258657107" expanded="true" signature="170:187" ph="..." />
+            <marker date="1504258657107" expanded="true" signature="257:308" ph="..." />
+            <marker date="1504258657107" expanded="true" signature="309:356" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -195,7 +193,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mblog/mainsite/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -231,10 +235,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" column="34" lean-forward="false" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-          <folding>
-            <marker date="1504254456000" expanded="true" signature="0:57" ph="import ..." />
-            <marker date="1504254456000" expanded="true" signature="122:169" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -242,12 +242,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <marker date="1504254000591" expanded="true" signature="0:90" ph="import ..." />
-            <marker date="1504254000591" expanded="true" signature="117:400" ph="..." />
-            <marker date="1504254000591" expanded="true" signature="312:346" ph="..." />
-            <marker date="1504254000591" expanded="true" signature="374:400" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -255,47 +249,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="356">
           <caret line="57" column="51" lean-forward="false" selection-start-line="57" selection-start-column="51" selection-end-line="57" selection-end-column="51" />
-          <folding>
-            <marker date="1504255363899" expanded="true" signature="0:307" ph="&quot;&quot;&quot;Django settings for mblog project....&quot;&quot;&quot;" />
-            <marker date="1504255363899" expanded="true" signature="465:668" ph="..." />
-            <marker date="1504255363899" expanded="true" signature="909:1112" ph="..." />
-            <marker date="1504255363899" expanded="true" signature="1129:1526" ph="..." />
-            <marker date="1504255363899" expanded="true" signature="1571:2075" ph="..." />
-            <marker date="1504255363899" expanded="true" signature="1577:2072" ph="..." />
-            <marker date="1504255363899" expanded="true" signature="1749:2065" ph="..." />
-            <marker date="1504255363899" expanded="true" signature="1785:2054" ph="..." />
-            <marker date="1504255363899" expanded="true" signature="2124:2199" ph="..." />
-            <marker date="1504255363899" expanded="true" signature="2214:2340" ph="..." />
-            <marker date="1504255363899" expanded="true" signature="2231:2338" ph="..." />
-            <marker date="1504255363899" expanded="true" signature="2344:2445" ph="..." />
-            <marker date="1504255363899" expanded="true" signature="2475:2869" ph="..." />
-            <marker date="1504255363899" expanded="true" signature="2481:2578" ph="..." />
-            <marker date="1504255363899" expanded="true" signature="2586:2673" ph="..." />
-            <marker date="1504255363899" expanded="true" signature="2681:2769" ph="..." />
-            <marker date="1504255363899" expanded="true" signature="2777:2866" ph="..." />
-            <marker date="1504255363899" expanded="true" signature="2873:2949" ph="..." />
-            <marker date="1504255363899" expanded="true" signature="3055:3156" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mblog/template/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mblog/template/index.html" />
     <entry file="file://$PROJECT_DIR$/mblog/mblog/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="17" column="45" lean-forward="false" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
-          <folding>
-            <marker date="1504256295848" expanded="true" signature="0:638" ph="&quot;&quot;&quot;mblog URL Configuration...&quot;&quot;&quot;" />
-            <marker date="1504256295848" expanded="true" signature="639:758" ph="import ..." />
-            <marker date="1504256295848" expanded="true" signature="775:885" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -303,27 +264,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-          <folding>
-            <marker date="1504256536810" expanded="true" signature="0:213" ph="import ..." />
-            <marker date="1504256536810" expanded="true" signature="263:668" ph="..." />
-            <marker date="1504256536810" expanded="true" signature="403:638" ph="..." />
-            <marker date="1504256536810" expanded="true" signature="697:937" ph="..." />
-            <marker date="1504256536810" expanded="true" signature="746:896" ph="..." />
-            <marker date="1504256536810" expanded="true" signature="814:896" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mblog/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-          <folding>
-            <marker date="1504257395067" expanded="true" signature="34:330" ph="..." />
-            <marker date="1504257395067" expanded="true" signature="41:142" ph="..." />
-            <marker date="1504257395067" expanded="true" signature="80:134" ph="..." />
-            <marker date="1504257395067" expanded="true" signature="149:322" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -331,21 +271,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-          <folding>
-            <marker date="1504257829121" expanded="true" signature="119:136" ph="..." />
-            <marker date="1504257829121" expanded="true" signature="226:275" ph="..." />
-            <marker date="1504257829121" expanded="true" signature="276:358" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mblog/templates/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="39" lean-forward="false" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
-          <folding>
-            <marker date="1504258385177" expanded="true" signature="11:28" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -353,22 +278,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-          <folding>
-            <marker date="1504258602696" expanded="true" signature="50:67" ph="..." />
-            <marker date="1504258602696" expanded="true" signature="116:133" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mblog/templates/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
+        <state relative-caret-position="27">
           <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
           <folding>
-            <element signature="n#style#0;n#h3#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
+            <marker date="1504258657107" expanded="true" signature="117:134" ph="..." />
+            <marker date="1504258657107" expanded="true" signature="170:187" ph="..." />
+            <marker date="1504258657107" expanded="true" signature="257:308" ph="..." />
+            <marker date="1504258657107" expanded="true" signature="309:356" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mblog/templates/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="48" lean-forward="false" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
+          <folding>
+            <marker date="1504315927457" expanded="true" signature="17:73" ph="..." />
+            <marker date="1504315927457" expanded="true" signature="34:51" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mblog/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="54" column="10" lean-forward="false" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
